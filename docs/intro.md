@@ -1,47 +1,37 @@
 ---
 sidebar_position: 1
+slug: /
 ---
 
-# Tutorial Intro
+# Introduction
+## What is ABI-Smartly
 
-Let's discover **Docusaurus in less than 5 minutes**.
-
-## Getting Started
-
-Get started by **creating a new site**.
-
-Or **try Docusaurus immediately** with **[docusaurus.new](https://docusaurus.new)**.
+ABI-Smartly is a platform that makes it easy for frontend engineers to integrate with smart contract ABIs. No more struggling with Solidity - **Just use ABI-Smartly and get back to building great DAPPs ⚡️🤟🏻** Practice your web3 skills, join the open-source community, and simplify the overwhelming world of blockchain.
 
 ### What you'll need
 
-- [Node.js](https://nodejs.org/en/download/) version 16.14 or above:
-  - When installing Node.js, you are recommended to check all checkboxes related to dependencies.
+ *Before you move further, it'd be nice to have known some of the concept, so as to help you go straight into integrating your dapps with the ABI's on our platform.*
 
-## Generate a new site
+- Understanding a Javascript framework: (**React, Vue, Angular**)
+- **Web3js Libraries:** there are couple of libraries out there that make it easy to interact with the blockchain from the client side.
+  - [Web3.js](https://web3js.readthedocs.io/)
+  - [Ether.js](https://docs.ethers.org/)
+- Having a basic knowledge of how wallet works: [Cryptocurrency wallet](https://www.youtube.com/watch?v=SQyg9pyJ1Ac)
 
-Generate a new Docusaurus site using the **classic template**.
+## Our greatest goal for you
 
 The classic template will automatically be added to your project after you run the command:
 
-```bash
-npm init docusaurus@latest my-website classic
-```
+1. The blockchain ecosystem can be overwhelming, with a lot of resources to navigate. ABI-Smartly simplifies this process and takes away the stress of trying to understand the details.
+2. Join the open-source community on ABI-Smartly and share your **smart contract ABIs** with fellow developers to build amazing interfaces for it. code credits attached - it's the platform built by developers, for developers.
+
+3. This is a platform where developers can collaborate on open-source projects and showcase their skills to the world, you never know who's watching 😉.
 
 You can type this command into Command Prompt, Powershell, Terminal, or any other integrated terminal of your code editor.
 
 The command also installs all necessary dependencies you need to run Docusaurus.
 
-## Start your site
+## Conclusion
 
-Run the development server:
+I hope this little intro has been able to help you spark that imaginative mind and also pushed you into getting into open source as a noob/expert 🥂.
 
-```bash
-cd my-website
-npm run start
-```
-
-The `cd` command changes the directory you're working with. In order to work with your newly created Docusaurus site, you'll need to navigate the terminal there.
-
-The `npm run start` command builds your website locally and serves it through a development server, ready for you to view at http://localhost:3000/.
-
-Open `docs/intro.md` (this page) and edit some lines: the site **reloads automatically** and displays your changes.
