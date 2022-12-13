@@ -14,7 +14,7 @@ ABI-Smartly is a platform that makes it easy for frontend engineers to integrate
 
 - Understanding a Javascript framework: (**React, Vue, Angular**)
 - **Web3js Libraries:** there are couple of libraries out there that make it easy to interact with the blockchain from the client side.
-  - [Web3.js](https://web3js.readthedocs.io/).
+  - [Web3.js](https://web3js.readthedocs.io/)
   - [Ether.js](https://docs.ethers.org/)
 - Having a basic knowledge of how wallet works: [Cryptocurrency wallet](https://www.youtube.com/watch?v=SQyg9pyJ1Ac)
 
